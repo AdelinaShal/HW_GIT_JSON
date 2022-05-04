@@ -1,4 +1,8 @@
 {
-	"a1" : "Ada",
-	"a2" : "Sasha"
+	"firstName" : "Adelina",
+	"surname" : "Shalygina" , 
+	"age" : "25",
+	"number of pets" : "1" , 
+	"future desired salary" : "1000" 
+
 }
